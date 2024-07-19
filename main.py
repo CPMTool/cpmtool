@@ -11,8 +11,8 @@ import numpy as np
 
 from cpmtool import CPMTool
 
-__CHANNEL_USERNAME__ = "CPMPola1999"
-__GROUP_USERNAME__ = "CPMPola_1999"
+__CHANNEL_USERNAME__ = "CPMCRIMSONTOOL"
+__GROUP_USERNAME__ = "CPMTOOLKING"
 
 
 def signal_handler(sig, frame):
